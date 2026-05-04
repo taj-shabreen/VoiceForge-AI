@@ -364,15 +364,13 @@ VoiceForge-AI/
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 
 <br/>
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Built+by+taj-shabreen;Zero-Shot+Voice+Cloning+%7C+Open+Source;Star+%E2%AD%90+if+this+helped+you!" alt="Typing SVG" />
+
 
 <br/>
 
