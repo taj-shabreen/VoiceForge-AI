@@ -1,0 +1,19 @@
+TTS==0.22.0
+torch==2.1.2
+torchaudio==2.1.2
+transformers==4.35.2
+numpy==1.22.0
+scipy==1.11.2
+librosa==0.10.0
+soundfile==0.12.1
+pydub==0.25.1
+sentencepiece
+accelerate
+streamlit==1.32.0
+plotly==5.18.0
+noisereduce==3.0.0
+
+
+
+#streamlit run app/main.py
+# venv\Scripts\activate
